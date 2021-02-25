@@ -24,11 +24,13 @@ It's a simple app which let's you login in it and then once logged in you will l
     <li>If the user is not previously registered or doesn't want to use google sign in method , he/she gets the option of sign up or create a custom account to access the app.</li>
   </ol>
   <li>After the login process the user lands on the default home page and there he/she gets the option of logout.</li>
-  </ul>
+</ul>
+  
 ## What did I build this with?
+
 I used Android Java for the front-end and Firebase for the backend. The development IDE used by me was Android Studio.
 
-## Screenshots of Potrait mode of the App
+## Screenshots of Potrait mode of the App (Scrollable)
 <p align="center">
 <img src="./readmeImg/1.jpg" width="25%" >
   <span>&nbsp; &nbsp; &nbsp; </span>
@@ -39,7 +41,7 @@ I used Android Java for the front-end and Firebase for the backend. The developm
 <img src="./readmeImg/4.jpg" width="25%">
 
 
-## Screenshots of Landscape mode of the App
+## Screenshots of Landscape mode of the App (Scrollable)
 
 <img src="./readmeImg/5.jpg">
 <span>&nbsp; &nbsp; &nbsp; </span>
