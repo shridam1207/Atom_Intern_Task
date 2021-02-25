@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231793654132",
+    "project_id": "atom-intern-task",
+    "storage_bucket": "atom-intern-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231793654132:android:a87a5e69c8cb724b78d421",
+        "android_client_info": {
+          "package_name": "com.example.atom_intern_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231793654132-gorhh80ehedeo52s8fhgi1o113td73cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1e7zOaxqmcTtLm3K0LKDZe_NUNYDTfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231793654132-gorhh80ehedeo52s8fhgi1o113td73cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
