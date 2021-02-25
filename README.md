@@ -10,6 +10,7 @@ It's a simple app which let's you login in it and then once logged in you will l
   <li>This app has a feature of Google signin also which means you can access this app by logging in through your gmail id.</li>
   <li>The user doesn't needs to login everytime when he/she opens the app as the app saves the current user until the user gets user logged out.</li>
   <li>This app is scrollable and responsive, Works fine on both Potrait as well as Landscape mode.</li>
+  <li>Even if you are logged in through google sign in method, then also the firebase stores that user.</li>
 </ul>
 
 
@@ -27,7 +28,7 @@ It's a simple app which let's you login in it and then once logged in you will l
 ## What did I build this with?
 I used Android Java for the front-end and Firebase for the backend. The development IDE used by me was Android Studio.
 
-## Screenshots of App
+## Screenshots of Potrait mode of the App
 <p align="center">
 <img src="./readmeImg/1.jpg" width="25%" >
   <span>&nbsp; &nbsp; &nbsp; </span>
@@ -36,7 +37,10 @@ I used Android Java for the front-end and Firebase for the backend. The developm
 <img src="./readmeImg/3.jpg" width="25%" >
 </br>
 <img src="./readmeImg/4.jpg" width="25%">
-<span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>
+
+
+## Screenshots of Landscape mode of the App
+
 <img src="./readmeImg/5.jpg">
 <span>&nbsp; &nbsp; &nbsp; </span>
 <img src="./readmeImg/6.jpg" >
