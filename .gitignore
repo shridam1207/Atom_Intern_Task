@@ -51,6 +51,8 @@ captures/
 .idea/navEditor.xml
 
 # Keystore files
+credentials.json
+google-services.json
 # Uncomment the following lines if you do not want to check your keystore files in.
 #*.jks
 #*.keystore
